@@ -2,10 +2,11 @@
 ![](/weather.webp)
 <!-- WEATHER-START -->
 ### Sylhet Weather (Source: [Open-Meteo](https://open-meteo.com))
-_Updated: 2025-10-10 10:27 UTC_
-* 🌡️ **Current Temperature:** 30.6°C
-* 💧 **Humidity:** 74%
+_Updated: 2025-10-10 10:45 UTC_
+* 🌡️ **Current Temperature:** 30.0°C
+* 💧 **Humidity:** 78%
 <!-- WEATHER-END -->
+
 
 
 
